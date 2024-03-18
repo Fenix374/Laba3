@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\semen\\source\\repos\\Laba3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3D6BB1-8DAD-4229-80E2-D772E91DFD50}|Laba3\\Laba3.csproj|c:\\users\\semen\\source\\repos\\laba3\\laba3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD3D6BB1-8DAD-4229-80E2-D772E91DFD50}|Laba3\\Laba3.csproj|solutionrelative:laba3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3D6BB1-8DAD-4229-80E2-D772E91DFD50}|Laba3\\Laba3.csproj|C:\\Users\\semen\\source\\repos\\Laba3\\laba3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3D6BB1-8DAD-4229-80E2-D772E91DFD50}|Laba3\\Laba3.csproj|solutionrelative:laba3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3D6BB1-8DAD-4229-80E2-D772E91DFD50}|Laba3\\Laba3.csproj|C:\\Users\\semen\\source\\repos\\Laba3\\laba3\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD3D6BB1-8DAD-4229-80E2-D772E91DFD50}|Laba3\\Laba3.csproj|solutionrelative:laba3\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3D6BB1-8DAD-4229-80E2-D772E91DFD50}|Laba3\\Laba3.csproj|C:\\Users\\semen\\source\\repos\\Laba3\\laba3\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3D6BB1-8DAD-4229-80E2-D772E91DFD50}|Laba3\\Laba3.csproj|solutionrelative:laba3\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3D6BB1-8DAD-4229-80E2-D772E91DFD50}|Laba3\\Laba3.csproj|c:\\users\\semen\\source\\repos\\laba3\\laba3\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{CD3D6BB1-8DAD-4229-80E2-D772E91DFD50}|Laba3\\Laba3.csproj|solutionrelative:laba3\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3D6BB1-8DAD-4229-80E2-D772E91DFD50}|Laba3\\Laba3.csproj|c:\\users\\semen\\source\\repos\\laba3\\laba3\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CD3D6BB1-8DAD-4229-80E2-D772E91DFD50}|Laba3\\Laba3.csproj|solutionrelative:laba3\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3D6BB1-8DAD-4229-80E2-D772E91DFD50}|Laba3\\Laba3.csproj|c:\\users\\semen\\source\\repos\\laba3\\laba3\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CD3D6BB1-8DAD-4229-80E2-D772E91DFD50}|Laba3\\Laba3.csproj|solutionrelative:laba3\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3D6BB1-8DAD-4229-80E2-D772E91DFD50}|Laba3\\Laba3.csproj|c:\\users\\semen\\source\\repos\\laba3\\laba3\\assasins_creeddataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{CD3D6BB1-8DAD-4229-80E2-D772E91DFD50}|Laba3\\Laba3.csproj|solutionrelative:laba3\\assasins_creeddataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3D6BB1-8DAD-4229-80E2-D772E91DFD50}|Laba3\\Laba3.csproj|c:\\users\\semen\\source\\repos\\laba3\\laba3\\assasins_creeddataset1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3D6BB1-8DAD-4229-80E2-D772E91DFD50}|Laba3\\Laba3.csproj|solutionrelative:laba3\\assasins_creeddataset1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Laba3\\Laba3\\Window1.xaml",
+              "RelativeDocumentMoniker": "Laba3\\Window1.xaml",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Laba3\\Laba3\\Window1.xaml",
+              "RelativeToolTip": "Laba3\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T16:03:20.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Laba3\\Laba3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Laba3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Laba3\\Laba3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Laba3\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T15:46:02.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Laba3\\Laba3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Laba3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Laba3\\Laba3\\MainWindow.xaml",
+              "RelativeToolTip": "Laba3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-18T15:46:03.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Laba3\\Laba3\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "Laba3\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Laba3\\Laba3\\Window1.xaml.cs",
+              "RelativeToolTip": "Laba3\\Window1.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T16:03:46.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Laba3\\Laba3\\Model1.edmx",
+              "RelativeDocumentMoniker": "Laba3\\Model1.edmx",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Laba3\\Laba3\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Laba3\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-03-18T18:28:24.714Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Laba3\\Laba3\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "Laba3\\Model1.Context.tt",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Laba3\\Laba3\\Model1.Context.tt",
+              "RelativeToolTip": "Laba3\\Model1.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-18T18:28:23.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model1.tt",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Laba3\\Laba3\\Model1.tt",
+              "RelativeDocumentMoniker": "Laba3\\Model1.tt",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Laba3\\Laba3\\Model1.tt",
+              "RelativeToolTip": "Laba3\\Model1.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-18T18:28:21.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ASSASINS_CREEDDataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Laba3\\Laba3\\ASSASINS_CREEDDataSet1.xsd",
+              "RelativeDocumentMoniker": "Laba3\\ASSASINS_CREEDDataSet1.xsd",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Laba3\\Laba3\\ASSASINS_CREEDDataSet1.xsd",
+              "RelativeToolTip": "Laba3\\ASSASINS_CREEDDataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-03-18T18:06:38.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ASSASINS_CREEDDataSet1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Laba3\\Laba3\\ASSASINS_CREEDDataSet1.Designer.cs",
+              "RelativeDocumentMoniker": "Laba3\\ASSASINS_CREEDDataSet1.Designer.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Laba3\\Laba3\\ASSASINS_CREEDDataSet1.Designer.cs",
+              "RelativeToolTip": "Laba3\\ASSASINS_CREEDDataSet1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T18:06:41.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
